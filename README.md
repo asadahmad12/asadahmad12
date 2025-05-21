@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asadahmad12
 - 👀 I am a Software Engineer.
 - 🌱 I’m currently learning Machine Learning and Development
-- 📫 How to reach me on Github and Linkedin.
+- 📫 Reach me on Github and Linkedin.
 - 😄 Pronouns: Asad
 - ⚡ Fun fact: Interested Reading and Geopolitics enthusiast.
 
